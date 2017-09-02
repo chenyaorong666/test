@@ -1,0 +1,21 @@
+INDEX VERSION 1.130+E:\EclipseFiles\10crawlertest\.metadata\.plugins\org.eclipse.jdt.core
+3014494314.index
+2943998358.index
+3307956702.index
+2845906861.index
+2195358868.index
+4180383623.index
+3770867405.index
+440394739.index
+1770566366.index
+1530063193.index
+2364868463.index
+942700970.index
+1444406147.index
+2688515499.index
+888501993.index
+1985438164.index
+1875963471.index
+4212567283.index
+832590411.index
+544600404.index

@@ -1,0 +1,14 @@
+2017-09-02 10:06:34,883 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-02 10:08:30,801 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\EclipseFiles\10crawlertest\my-crawler-simple\pom.xml
+2017-09-02 10:08:34,263 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cyr.crawler:my-crawler-simple:0.0.1-SNAPSHOT @ E:\EclipseFiles\10crawlertest\my-crawler-simple\pom.xml.
+2017-09-02 10:08:35,617 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-crawler-simple/src/main/java
+2017-09-02 10:08:35,624 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my-crawler-simple/src/test/java
+2017-09-02 10:08:36,416 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2017-09-02 10:08:36,941 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-02 10:08:36,941 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\EclipseFiles\10crawlertest\my-crawler-simple\src\main\resources
+2017-09-02 10:08:36,942 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-02 10:08:36,943 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\EclipseFiles\10crawlertest\my-crawler-simple\src\test\resources
+2017-09-02 10:08:41,834 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-02 10:08:41,834 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\EclipseFiles\10crawlertest\my-crawler-simple\src\main\resources
+2017-09-02 10:08:41,835 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-02 10:08:41,835 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\EclipseFiles\10crawlertest\my-crawler-simple\src\test\resources
